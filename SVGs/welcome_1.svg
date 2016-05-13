@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>welcome_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M64,115 C92.1665222,115 115,92.1665222 115,64 C115,35.8334778 92.1665222,13 64,13 C35.8334778,13 13,35.8334778 13,64 C13,92.1665222 35.8334778,115 64,115 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-5" y="-5" width="112" height="112">
+            <rect x="8" y="8" width="112" height="112" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <path d="M4.74310927,21.0865736 L4.79367335,21.1950086 C9.40873421,24.076556 15.1014155,25.0493389 20.5502431,23.6294592 C17.2341813,21.6205313 14.4547254,18.6370902 12.6908949,14.8545437 C12.6681019,14.805664 12.6455202,14.7567401 12.6231493,14.7077731 C12.5587518,14.5152866 12.4827991,14.3244656 12.3949845,14.1361466 C11.1365623,11.4374514 7.91870691,10.2745322 5.20770341,11.5386939 C2.49669991,12.8028556 1.31915013,16.0153859 2.57757238,18.7140811 C3.05882857,19.7461383 3.8266545,20.5535862 4.74310927,21.0865736 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.5372461" height="13.2261477" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M61.0343078,21.0865736 L61.0848719,21.1950086 C65.6999327,24.076556 71.392614,25.0493389 76.8414416,23.6294592 C73.5253798,21.6205313 70.7459239,18.6370902 68.9820934,14.8545437 C68.9593005,14.805664 68.9367187,14.7567401 68.9143478,14.7077731 C68.8499503,14.5152866 68.7739976,14.3244656 68.686183,14.1361466 C67.4277608,11.4374514 64.2099054,10.2745322 61.4989019,11.5386939 C58.7878984,12.8028556 57.6103486,16.0153859 58.8687709,18.7140811 C59.3500271,19.7461383 60.117853,20.5535862 61.0343078,21.0865736 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="18.5372461" height="13.2261477" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="welcome_1">
+            <g id="Oval-53">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke="#C9C9C9" mask="url(#mask-2)" stroke-width="10" xlink:href="#path-1"></use>
+            </g>
+            <g id="Main-Icon" transform="translate(25.000000, 34.000000)" fill="#F8B000">
+                <path d="M33.6344461,55.3397893 C37.0635981,56.6662699 39.3668445,59.126534 39.3668446,61.9423765 C39.3668446,59.126534 41.670091,56.6662699 45.099243,55.3397893 C43.2620671,55.7864669 41.3422383,56.0232882 39.3668446,56.0232882 C37.3914509,56.0232882 35.471622,55.7864669 33.6344461,55.3397893 Z" id="Spine-Copy"></path>
+                <use id="Left-Wing-Copy" stroke="#F8B000" mask="url(#mask-4)" stroke-width="1.05" transform="translate(11.337451, 17.645333) rotate(-29.000000) translate(-11.337451, -17.645333) " xlink:href="#path-3"></use>
+                <use id="Left-Wing-Copy-2" stroke="#F8B000" mask="url(#mask-6)" stroke-width="1.05" transform="translate(67.628650, 17.645333) scale(-1, 1) rotate(-29.000000) translate(-67.628650, -17.645333) " xlink:href="#path-5"></use>
+                <g id="Body-Copy" transform="translate(15.299817, 7.396146)">
+                    <path d="M10.6761372,4.76277951 C4.23844203,9.06455072 0.00170707205,16.3779039 0.00170707205,24.6763069 C0.00170707205,37.9127965 10.7809411,48.6430914 24.0778001,48.6430914 C37.3746591,48.6430914 48.1538931,37.9127965 48.1538931,24.6763069 C48.1538931,16.4007992 43.9405042,9.10491334 37.5326975,4.79845403 C36.1266647,6.9798095 33.6688581,8.42519288 30.8719245,8.42519288 C28.0307993,8.42519288 25.5396023,6.93377467 24.1452961,4.69450962 C22.7481546,6.94810955 20.244931,8.45004212 17.3893124,8.45004212 C14.5626276,8.45004212 12.081233,6.9783913 10.6761372,4.76277951 Z" id="Oval-1"></path>
+                    <ellipse id="Oval-1-Copy" cx="24.0778221" cy="24.6763069" rx="24.076093" ry="23.9667845"></ellipse>
+                </g>
+                <g id="Eye-Ball-Copy" transform="translate(24.736989, 0.032949)">
+                    <ellipse id="Right-Eye-White" cx="21.4090109" cy="7.890412" rx="7.91431225" ry="7.87838029"></ellipse>
+                    <ellipse id="Left-Eye-White" cx="7.95213979" cy="7.91603609" rx="7.91430124" ry="7.87836933"></ellipse>
+                    <ellipse id="Right-Eye-Ball" stroke="#F8B000" stroke-width="0.525" cx="21.4347519" cy="7.91603609" rx="6.74130604" ry="6.71069967"></ellipse>
+                    <ellipse id="Left-Eye-Ball" stroke="#F8B000" stroke-width="0.525" cx="7.95213979" cy="7.91603609" rx="6.74130604" ry="6.71069967"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
